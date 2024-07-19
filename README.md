@@ -65,7 +65,6 @@ EduKate AI addresses these challenges by providing:
 
 ## Getting Started
 
-[Provide instructions on how to set up the project locally]
 
 ## Contributing
 
